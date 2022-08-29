@@ -1,0 +1,15 @@
+D:\VS projects\cleverenceTask2\cleverenceTask2\bin\Debug\net6.0\cleverenceTask2.exe
+D:\VS projects\cleverenceTask2\cleverenceTask2\bin\Debug\net6.0\cleverenceTask2.deps.json
+D:\VS projects\cleverenceTask2\cleverenceTask2\bin\Debug\net6.0\cleverenceTask2.runtimeconfig.json
+D:\VS projects\cleverenceTask2\cleverenceTask2\bin\Debug\net6.0\cleverenceTask2.dll
+D:\VS projects\cleverenceTask2\cleverenceTask2\bin\Debug\net6.0\cleverenceTask2.pdb
+D:\VS projects\cleverenceTask2\cleverenceTask2\obj\Debug\net6.0\cleverenceTask2.csproj.AssemblyReference.cache
+D:\VS projects\cleverenceTask2\cleverenceTask2\obj\Debug\net6.0\cleverenceTask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\cleverenceTask2\cleverenceTask2\obj\Debug\net6.0\cleverenceTask2.AssemblyInfoInputs.cache
+D:\VS projects\cleverenceTask2\cleverenceTask2\obj\Debug\net6.0\cleverenceTask2.AssemblyInfo.cs
+D:\VS projects\cleverenceTask2\cleverenceTask2\obj\Debug\net6.0\cleverenceTask2.csproj.CoreCompileInputs.cache
+D:\VS projects\cleverenceTask2\cleverenceTask2\obj\Debug\net6.0\cleverenceTask2.dll
+D:\VS projects\cleverenceTask2\cleverenceTask2\obj\Debug\net6.0\refint\cleverenceTask2.dll
+D:\VS projects\cleverenceTask2\cleverenceTask2\obj\Debug\net6.0\cleverenceTask2.pdb
+D:\VS projects\cleverenceTask2\cleverenceTask2\obj\Debug\net6.0\cleverenceTask2.genruntimeconfig.cache
+D:\VS projects\cleverenceTask2\cleverenceTask2\obj\Debug\net6.0\ref\cleverenceTask2.dll
